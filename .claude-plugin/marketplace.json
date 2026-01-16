@@ -1,24 +1,24 @@
 {
-  "name": "every-marketplace",
+  "name": "8b-is Marketplace",
   "owner": {
-    "name": "Every Inc.",
-    "url": "https://github.com/EveryInc"
+    "name": "8b-is",
+    "url": "https://github.com/8b-is"
   },
   "metadata": {
-    "description": "Official Every plugin marketplace for Claude Code extensions",
+    "description": "Official 8b-is plugin marketplace for Claude Code extensions",
     "version": "1.0.0"
   },
   "plugins": [
     {
-      "name": "compound-engineering",
-      "description": "AI-powered development tools that get smarter with every use. Make each unit of engineering work easier than the last. Includes 27 specialized agents, 20 commands, and 12 skills.",
-      "version": "2.21.0",
+      "name": "8b-compound-engineering",
+      "description": "AI-powered development tools that get smarter with every use. Make each unit of engineering work easier than the last. Includes 27 specialized agents, 23 commands, and 14 skills.",
+      "version": "1.0.0",
       "author": {
-        "name": "Kieran Klaassen",
-        "url": "https://github.com/kieranklaassen",
-        "email": "kieran@every.to"
+        "name": "8bit-Wraith",
+        "url": "https://github.com/8bit-Wraith",
+        "email": "mp@8b.is"
       },
-      "homepage": "https://github.com/EveryInc/compound-engineering-plugin",
+      "homepage": "https://github.com/8b-is/8b-compound-engineering",
       "tags": ["ai-powered", "compound-engineering", "workflow-automation", "code-review", "quality", "knowledge-management", "image-generation"],
       "source": "./plugins/compound-engineering"
     },

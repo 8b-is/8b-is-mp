@@ -1,12 +1,12 @@
-# Compound Engineering Plugin
+# 8b-is-mp (Marketplace Plugin)
 
 A Claude Code plugin that makes each unit of engineering work easier than the last.
 
 ## Install
 
 ```bash
-/plugin marketplace add https://github.com/EveryInc/compound-engineering-plugin
-/plugin install compound-engineering
+/plugin marketplace add https://github.com/8b-is/8b-is-mp
+/plugin install 8b-compound-engineering
 ```
 
 ## Workflow
